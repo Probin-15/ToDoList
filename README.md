@@ -1,5 +1,4 @@
-
-#Welcome to the TodoList Project! 
+# Welcome to the TodoList Project! 
 This simple project is designed to help you learn the basics of React.js and understand its core concepts. The TodoList app allows you to create and remove tasks easily.
 
 Features
