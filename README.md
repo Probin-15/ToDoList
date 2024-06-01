@@ -1,3 +1,14 @@
+
+#Welcome to the TodoList Project! 
+This simple project is designed to help you learn the basics of React.js and understand its core concepts. The TodoList app allows you to create and remove tasks easily.
+
+Features
+Add new todo tasks
+Remove existing tasks
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
